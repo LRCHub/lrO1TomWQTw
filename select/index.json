@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "LET'S JUST CRASH",
+  "base_artist": "Mori Calliope",
+  "createdAt": "2025-12-30T13:47:16.524988Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LET'S JUST CRASH",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/pl_01_LET'S_JUST_CRASH_Mori_Calliope.txt"
+    }
+  ]
+}
